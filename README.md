@@ -9,23 +9,23 @@ A simple program that takes a function from the user and plots it using Pyside2 
 
 ## Working Snapshots
 
-![X^2](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/4c346c0f-4d4f-46f0-90f7-ea27455e792b)
+![X^2](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/83fbb0ae-4c27-49a4-ba27-66fc80c4a5fa)
 
-![GIVEN EXAMPLE](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/6656c207-ccec-49fa-bb88-cd3245138e6c)
+![GIVEN EXAMPLE](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/a75c94c5-cfc6-45d5-8e80-7146b8f66ede)
 
-![complex example](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/c65aae6a-ea2c-4207-a72d-f8e288fd9d6a)
+![complex example](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/ec6b8878-71ce-4eaa-b1db-1e6b312672d8)
 
 ## Wrong Snapshots
 
-![all empty](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/b726a324-bd9b-48a1-a0d9-54ee2792898f)
+![all empty](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/dfd5d7d1-0ee4-4af4-96c1-373b3449e4e2)
 
-![min and max empt](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/5bcdc0cf-0a81-4fce-9725-f62a8942f197)
+![min and max empt](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/134a5247-c148-48eb-87c1-46caa4bd2d02)
 
-![min empty](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/f6b89c74-7758-42af-b34d-00b9e6cc402a)
+![min empty](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/d6891840-c840-46f1-afb8-688fe3745e22)
 
-![max empty](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/5156a1c6-a94a-4baa-8756-d77bc600f729)
+![max empty](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/1219c4a7-7d53-4f5b-8106-63a3495f230b)
 
-![invalid func](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/99db4205-f1cc-4880-9c25-c828de6979f1)
+![invalid func](https://github.com/karimmahmoud22/Function_Plotter/assets/82693464/334e15f3-2365-4c0a-a43e-5958c0d18b5e)
 
 
 ## Contributors
